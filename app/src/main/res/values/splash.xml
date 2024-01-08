@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#8E6CEF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/umc</item>
+        <item name="postSplashScreenTheme">@style/Theme.JetPackEcom</item>
+    </style>
+</resources>
